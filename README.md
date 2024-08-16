@@ -1,7 +1,7 @@
 <h2>Information</h2>
 <p>- 👋 Hi, I’m @AndresDev859674
 <p>- 👀 I’m interested in Schedule Things </p>
-<p>- 🌱 I’m currently learning Python</p>
+<p>- 💻 I’m currently learning Python</p>
 
 <h2>Github Stats</h2>
 
