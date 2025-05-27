@@ -23,7 +23,7 @@ One of my most complete games, Pacman and Snake combined and also with a website
 A Harmful and almost ***POWERFUL*** Roblox Script, that brings scripts from other people and mine, and also allows you to see the players who joined and died and who left in the experience.
 
 ### 🦉 Utochou (Roblox Exploit)
-A Cancelled Exploit for Roblox, It is a Script Loader and also Interact with the Roblox Client, It is for Quick Hub and other Scripts, and also Faces Roblox Security.
+A Cancelled ***Exploit*** for Roblox, It is a Script Loader and also Interact with the ***Roblox Client***, It is for Quick Hub and other Scripts, and also Faces Roblox Security.
 
 ### 💬 ChatGPT But In Python
 An attempt at creating my own AI, although it went wrong LOL
