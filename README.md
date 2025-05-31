@@ -36,6 +36,9 @@ Want to see my coding rhythm? Check out my activity and contributions on GitHub:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresDev859674&show_icons=true&theme=ocean_dark&hide_title=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDev859674&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndresDev859674&theme=ocean_dark)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndresDev859674&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
