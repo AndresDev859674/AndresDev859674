@@ -31,6 +31,9 @@ A Cancelled ***Exploit*** for Roblox, It is a Script Loader and also Interact wi
 ### Auto-GRUB-Repair-Script
 This is my experience, I was using Linux and when it shut down instantly or there were power outages and drops, my Linux would no longer start, so I decided to do this project.
 
+### 🦖 Dino Cheats
+I was bored so I decided to make a hack with gui and easier.
+
 ---
 
 ## My GitHub Activity
