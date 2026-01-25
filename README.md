@@ -1,12 +1,18 @@
 
-# · hi i'm Andrew! (AndresDev859674)
+# · hi i'm Andres! (or Andrew)
 
-I am a python and JAVA developer (starting) Unity, C # and minecraft mods HTML and CSS, JS and much more, and I am starting in the Linux field, and I will take out new tools according to my experience with Linux
+I am a python and JAVA developer (starting) Unity, C # and minecraft mods ''*im not so advanced in MC mods*'' HTML and CSS, JS and much more, and I am starting in the Linux field, and I will take out new tools according to my experience with Linux
+***even though I am already an advanced user who knows how to install Arch Linux***
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R81MGUEA)
+
+I'm Spanish btw
 
 ## What I'm All About:
 
-* **Interests:** My real interest is making games, useful and useless programs *lol*
+* **Interests:** My real interest is making games, useful and useless programs or stupid programs or only playing games ... *lol*
 * **Currently Learning:** More addicted to **Python's ecosystem **, and also **CSharp** and **HTML** and **CSS** and **JAVA** and more..
+* *coding in CSharp only in unity*
 * **LINUX:** Now i More addicted to LINUX creating new projects..
 
 ---
@@ -19,23 +25,19 @@ These are my Some Projects :
 A game launcher and download, almost the same as Steam but not quite the same XD, it is also my most complete projects.
 
 ### 🐍 PacSnake
-One of my most complete games, Pacman and Snake combined and also with a website, made in Python (pygame) and with a Mod Loader System.
+One of my most complete games, Pacman and Snake combined and also with a website, made in Python (pygame) and with a Mod Loader System. its the most advanced project i ever created
+https://andresdev859674.github.io/PacNake-Web/index.html
 
 ### Auto-GRUB-Repair-Script
-This is my experience, I was using Linux and when it shut down instantly or there were power outages and drops, my Linux would no longer start, so I decided to do this project.
+This is my experience, I was using Linux and when it shut down instantly or there were power outages and drops, my Linux would no longer start, so I decided to do this project. This is the old, Use the new called Boot-repair
+
+### boot-repair
+This is the definitive version, with better options and updates. This is based on my experience, which I already shared regarding the Auto-GRUB-Repair-Script on my old PC.
 
 ### 🦖 Dino Cheats
 I was bored so I decided to make a hack with gui and easier.
 
 ---
-
-# Experimental Projects
-
-### 🚀 Quick Hub (Roblox Script)
-A Harmful and almost ***POWERFUL*** Roblox Script, that brings scripts from other people and mine, and also allows you to see the players who joined and died and who left in the experience.
-
-### 🦉 Utochou (Roblox Exploit)
-A Cancelled ***Exploit*** for Roblox, It is a Script Loader and also Interact with the ***Roblox Client***, It is for Quick Hub and other Scripts, and also Faces Roblox Security.
 
 ## My GitHub Activity
 
