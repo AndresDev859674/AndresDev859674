@@ -5,7 +5,7 @@ I am a python and JAVA developer (starting) Unity, C # and C (learning) HTML and
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R81MGUEA)
 
-I'm Spanish btw
+I'm Spanish and btw germany
 
 > Scheitern bedeutet nicht das Ende. Du kannst deine Lösung finden.
 ---
